@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Lucas Barrera</h1>
-<h3 align="center">Soy un software developer apasionado de Argentina</h3>
+<h3 align="center">Soy un Software Developer apasionado de Argentina</h3>
 
 - 💬 Ask me about **html, css, javascript, angular, sql, .net**
 
